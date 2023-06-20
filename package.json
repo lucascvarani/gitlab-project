@@ -1,0 +1,30 @@
+{
+  "name": "gitlab-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "npx nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucascvarani/gitlab-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucascvarani/gitlab-project/issues"
+  },
+  "homepage": "https://github.com/lucascvarani/gitlab-project#readme",
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
