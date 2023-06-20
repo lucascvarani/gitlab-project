@@ -1,0 +1,5 @@
+ProjectId,PipelineId,Job name,Succes job url,Failed job url
+3472737,903657547,inkscape:windows:build,https://gitlab.com/inkscape/inkscape/-/jobs/4494572813,https://gitlab.com/inkscape/inkscape/-/jobs/4494460436
+3472737,903387595,inkscape:windows:build,https://gitlab.com/inkscape/inkscape/-/jobs/4493580616,https://gitlab.com/inkscape/inkscape/-/jobs/4493442586
+3472737,903657430,inkscape:windows:build,https://gitlab.com/inkscape/inkscape/-/jobs/4494589534,https://gitlab.com/inkscape/inkscape/-/jobs/4494459948
+2009901,900923290,test: [race-go],https://gitlab.com/gitlab-org/gitaly/-/jobs/4479615605,https://gitlab.com/gitlab-org/gitaly/-/jobs/4479421207

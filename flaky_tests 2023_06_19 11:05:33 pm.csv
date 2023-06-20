@@ -1,0 +1,6 @@
+ProjectId,PipelineId,Job name,Succes job url,Failed job url
+3163647,873566565,Scan-Build/Debian,https://gitlab.com/gnuwget/wget2/-/jobs/4320103863,https://gitlab.com/gnuwget/wget2/-/jobs/4320102442
+3472737,903657547,inkscape:windows:build,https://gitlab.com/inkscape/inkscape/-/jobs/4494572813,https://gitlab.com/inkscape/inkscape/-/jobs/4494460436
+3472737,903657430,inkscape:windows:build,https://gitlab.com/inkscape/inkscape/-/jobs/4494589534,https://gitlab.com/inkscape/inkscape/-/jobs/4494459948
+3163647,903724026,Debian/Unstable,https://gitlab.com/gnuwget/wget2/-/jobs/4494756609,https://gitlab.com/gnuwget/wget2/-/jobs/4494750970
+3163647,903589765,Debian/Unstable,https://gitlab.com/gnuwget/wget2/-/jobs/4494168898,https://gitlab.com/gnuwget/wget2/-/jobs/4494167106
