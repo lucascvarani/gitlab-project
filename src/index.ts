@@ -72,12 +72,6 @@ const getJobsByPipelineId = async (projectId:string, pipelineId: string): Promis
       }
 }
 
-function sleep(ms: number) {
-    return new Promise((resolve) => {
-      setTimeout(resolve, ms);
-    });
-  }
-
 const main = async (): Promise<void> => {
     const csvHeader = `ProjectId,PipelineId,Job name,Succes job url,Failed job url\n`;
     try {

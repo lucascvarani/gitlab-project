@@ -1,0 +1,7 @@
+ProjectId,PipelineId,Job name,Succes job url,Failed job url
+3163647,903589765,Debian/Unstable,https://gitlab.com/gnuwget/wget2/-/jobs/4494168898,https://gitlab.com/gnuwget/wget2/-/jobs/4494167106
+3163647,832112922,Debian/OpenSSL,https://gitlab.com/gnuwget/wget2/-/jobs/4083989883,https://gitlab.com/gnuwget/wget2/-/jobs/4083974767
+3163647,903724026,Debian/Unstable,https://gitlab.com/gnuwget/wget2/-/jobs/4494756609,https://gitlab.com/gnuwget/wget2/-/jobs/4494750970
+3163647,837724946,Debian/OpenSSL,https://gitlab.com/gnuwget/wget2/-/jobs/4116760362,https://gitlab.com/gnuwget/wget2/-/jobs/4116704002
+3163647,873566565,Scan-Build/Debian,https://gitlab.com/gnuwget/wget2/-/jobs/4320103863,https://gitlab.com/gnuwget/wget2/-/jobs/4320102442
+3163647,831547816,Debian/Unstable,https://gitlab.com/gnuwget/wget2/-/jobs/4081690352,https://gitlab.com/gnuwget/wget2/-/jobs/4081503954
